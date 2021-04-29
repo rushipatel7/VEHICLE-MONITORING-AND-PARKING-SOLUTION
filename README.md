@@ -1,5 +1,10 @@
 Important:  If while downloading this repo, you encounter 'Failed - Network error' problem,then try downloading again since it's a big one.<br/>
 Mark each folder as root directory for proper functioning of program
+
+This repository contains our solution of the problem statement 'Vehicle Monitoring and Current Parking problems', as mentioned in SIH(Smart India Hackathon) 2020.
+
+
+
 # Vehicle Monitoring and Parking System
 
 This is our implementation of parking and detecting based on [YOLO](https://pjreddie.com/darknet/yolo/) 
