@@ -11,6 +11,11 @@ This is our implementation of parking and detecting based on [YOLO](https://pjre
 approach done in Python 3.
 We have trained our model using YOLOv3, based on the [Darknet framework](https://github.com/AlexeyAB/darknet) for object detection (licence plate in this case) with the help of Google Colab.
 
+## Project is live check out here
+* https://vehicle-detection.herokuapp.com
+* https://vehicle-detection.herokuapp.com/streaming  - for live streaming
+* https://vehicle-detection.herokuapp.com/api        - for Api
+
 Note: If you want to view/download the training data, it can be done from the following Google Drive link: <br>[Link for dataset](https://drive.google.com/drive/folders/13WF2mS5kTC9xt0XG9xsEcd0X08OT_ngl?usp=sharing)
 #### Team Name- Sigma Six
 
